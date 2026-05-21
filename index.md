@@ -1,6 +1,6 @@
-# Soono Android Legal
+# Soono Legal
 
 - [Privacy Policty](privacy.md)
 - [Tems & Conditions](terms.md)
 
-Contact: davilinhodroid@gmail.com
+Contact: davilinhodroid@gmail.com / dmartinnevado.tech@gmail.com
